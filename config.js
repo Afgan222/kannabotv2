@@ -47,28 +47,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'Gk Ad Bang:v'
 global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/Bot-Mdnew'
+global.sgc = 'https://chat.whatsapp.com/BZFO2kQ1nynGfhsMO1g6qf'
+global.sdc = 'https://github.com/Afgan1554'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
-global.psaweria = '-'
+global.pdana = '082125968810'
+global.povo = '--'
+global.pgopay = '--'
+global.ppulsa = '--'
+global.ppulsa2 = '--'
+global.psaweria = '--'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6282125968810'
+global.nomorown = '6282125968810'
+global.namebot = 'MikuBot - MD'
+global.nameown = 'Afgan  ID'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6282125968810', 'Afgan  ID', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
