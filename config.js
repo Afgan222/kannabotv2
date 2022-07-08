@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「 MikuBotz | Afgan  ID⁩ 」' //Main Watermark
+global.wm2 = '    乂 MikuBotz 乂     '
+global.wm3 = 'Afgan  ID'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
+global.titlebot = 'MikuBotz ™ ✯✯✯✯✯ '
 global.author = global.wm
 
 
@@ -152,7 +152,7 @@ global.fpagedoc = '999'
 global.dmenut = '    ➪' //top
 global.dmenub = '🌎 ' //body
 global.dmenub2 = '🌎 ' //body for info cmd on Default menu
-global.dmenuf = '\n' //footer
+global.dmenuf = '© Afgan  ID' //footer
 
 // COMMAND MENUFonts for Android and iPhone  - www.fontskeyboard.com/share-now
 global.dashmenu = '「▰▰▰▱▱▱▱▱▱▱」'
@@ -171,8 +171,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '\n'
-global.stickauth = `乂 尺乇ㄒ乇卂爪.|ᗪ \nig reteam.id`
+global.stickpack = 'MikuBotz'
+global.stickauth = 'Created By Afgan  ID'
 
 global.multiplier = 38 // The higher, The harder levelup
 
