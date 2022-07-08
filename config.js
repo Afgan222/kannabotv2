@@ -55,8 +55,8 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = '082125968810'
 global.povo = '--'
 global.pgopay = '--'
-global.ppulsa = '--'
-global.ppulsa2 = '--'
+global.ppulsa = '082125968810'
+global.ppulsa2 = '082125968810'
 global.psaweria = '--'
 
 /*============== NOMOR ==============*/
